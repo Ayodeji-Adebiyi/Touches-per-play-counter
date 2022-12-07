@@ -5,10 +5,13 @@ body {
     font-weight: bold;
     text-align: center;
     height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .container{
-    max-width: 70%;
+    max-width: 80%;
     background-color: #888;
     margin: auto;
     padding: 10px;
